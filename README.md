@@ -1,0 +1,1 @@
+Day 1: Prepping to create my second practice website. I linked my github repo to my local computer and just added my home page and my styles sheet.
